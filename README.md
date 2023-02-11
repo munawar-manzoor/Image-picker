@@ -4,3 +4,9 @@ It provides an easy-to-use interface for selecting images, and handles the permi
 With this library, developers can easily integrate image selection and capture functionality into their React Native apps. 
 The library supports multiple image selection, camera capture, image compression, and more. 
 It is widely used in React Native development for a variety of applications such as social media, e-commerce, and photography apps.
+
+
+#you need to install these package
+@baronha/react-native-multiple-image-picker.
+#to save the image path in data base you need to install sqlite storage libraray
+react-native-sqlite-storage
